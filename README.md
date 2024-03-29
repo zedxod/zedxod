@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Cyber Security**
 
-- 📫 How to reach me **Param591@gmail.com**
+- 📫 How to reach me **yaarparam@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
