@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedxod&label=Profile%20views&color=0e75b6&style=flat" alt="zedxod" /> </p>
 
-- 🔭 I’m currently working on **can't disclose**
+- 🔭 I’m currently working as **red teamer**
 
 - 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Bug Hunting**
 
-- 🤝 I’m looking for help with **Hungry to learn more**
+- 🤝 I’m **Hungry to learn more**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zedxod](https://github.com/zedxod)
 
